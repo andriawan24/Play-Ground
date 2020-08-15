@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/db"
+        android:title="@string/dashboard"
+        android:icon="@drawable/ic_dashboard"/>
+    <item android:id="@+id/my_loc"
+        android:title="@string/my_loc"
+        android:icon="@drawable/ic_location"/>
+    <item android:id="@+id/bluetoothPrint"
+        android:title="@string/bluetooth_print"
+        android:icon="@drawable/ic_bluetooth"/>
+    <item android:id="@+id/dragndrop"
+        android:title="Drag n Drop"
+        android:icon="@drawable/ic_drag" />
+    <item android:id="@+id/settings"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings"/>
+    <item android:id="@+id/logout"
+        android:title="@string/logout"
+        android:icon="@drawable/ic_exit"/>
+</menu>
